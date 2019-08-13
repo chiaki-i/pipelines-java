@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/g1420505/g1420505/_apis/build/status/chiaki-i.pipelines-java?branchName=master)](https://dev.azure.com/g1420505/g1420505/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
